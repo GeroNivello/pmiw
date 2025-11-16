@@ -1,5 +1,5 @@
 //Gerónimo Nivello y Julián Serna - Comisión 1
-
+//https://www.youtube.com/watch?v=Cgx-9X0US2E
 let ppal;
 let imgFondo, imgMarciano, imgAstronauta,imgPrincipal;
 let sonFondo, sonMarciano, sonAstronauta, sonLaser;
@@ -33,3 +33,4 @@ function mousePressed() {
 function keyPressed(){
   ppal.teclaPresionada(keyCode);
 }
+
